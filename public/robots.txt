@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nourwnar.pages.dev/sitemap.xml
+Sitemap: https://nourwnar.com/sitemap.xml
